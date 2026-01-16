@@ -1,5 +1,5 @@
 # 💫 About Me:
-I enjoy learning about technology and improving my skills.<br>I like experimenting with different systems, tools, and setups.<br>I have an interest in creative hobbies like photography.<br>I’m always working on new projects and ideas.<br>I enjoy solving problems and figuring out how things work.
+Hello my name is Alexander, a passionate photographer, student and a coder In grade 7 who enjoys in capturing memorable and compelling moments. I  like experimenting with different perspectives, experimenting with composition and light, and turning everyday scenes into visually appealing portrait and landscape photographs. In my spare time, I have fun coding random things that help me and anyone in the world and posting it to Github!
 
 
 ## 🌐 Socials:
@@ -15,4 +15,5 @@ I enjoy learning about technology and improving my skills.<br>I like experimenti
 ---
 [![](https://visitcount.itsvg.in/api?id=alxgraphy&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
+
