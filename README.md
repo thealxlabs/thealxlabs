@@ -15,5 +15,5 @@ Hello my name is Alexander, a passionate photographer, student and a coder In gr
 ---
 [![](https://visitcount.itsvg.in/api?id=alxgraphy&icon=2&color=12)](https://visitcount.itsvg.in)
 
-Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
+Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@thealxlabs)
 
